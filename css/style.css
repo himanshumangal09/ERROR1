@@ -107,11 +107,11 @@ p {
 }
 /* Showcase */
 #showcase {
-    background-image: url('../images/sport.jpg') no-repeat center center/cover;
+    background-color: rgb(42, 90, 187);
     height: 600px;
 }
 #showcase .showcase-content {
-    color: #fff;
+    color: #000000;
     text-align: center;
     padding-top: 170px;
 }
@@ -130,7 +130,7 @@ p {
 #home-info .info-img {
     float: left;
     width: 50%;
-    background: url('../images/food.jpg') no-repeat;
+    background: url('../images/swim.jpg') no-repeat;
     min-height: 100%;
     border-radius: 50%;
 }
@@ -174,8 +174,8 @@ p {
 }
 /* testimonials */
 #testimonials {
-    height: 600px;
-    background: url('../images/room3.jpg') no-repeat center center/cover;
+    height: 100%;
+    background: url('../images/room4.jpg');
     padding-top: 40px;
 }
 #testimonials h2 {
