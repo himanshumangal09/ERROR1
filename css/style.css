@@ -107,8 +107,9 @@ p {
 }
 /* Showcase */
 #showcase {
-    background-color: rgb(42, 90, 187);
+    background-image: url(../../images/sport.jpg);
     height: 600px;
+    background-size: 100% 100%;
 }
 #showcase .showcase-content {
     color: #000000;
